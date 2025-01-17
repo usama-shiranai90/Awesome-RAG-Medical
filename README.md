@@ -5,16 +5,17 @@ Welcome to the **RAG Medical Repository**, a curated collection of resources, da
 ---
 
 ## **Table of Contents**
+
 1. [Introduction](#introduction)
 2. [Repository Structure](#repository-structure)
-3. [Datasets](#datasets)
-4. [Review Papers](#review-papers)
-5. [Research Papers](#research-papers)
+3. [Review Papers](#review-papers)
+4. [Research Papers](#research-papers)
+    - [Federated Learning](#federated-learning)
+    - [Large Language Models](#large-language-models)
+    - [Knowledge-Augmented Models](#knowledge-augmented-models)
+5. [Datasets](#datasets)
 6. [Tutorials](#tutorials)
 7. [Tools](#tools)
-8. [References](#references)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ---
 
@@ -26,27 +27,16 @@ This repository is designed to centralize resources for RAG in the medical domai
 
 ## **Repository Structure**
 
-The repository is organized into the following directories:
+The repository is organized into the following categories:
 
-
+```plaintext
 datasets/        → Medical datasets for RAG research.
 review-papers/   → Collection of review papers on RAG and related topics.
 research-papers/ → Research papers exploring RAG in medicine.
 tutorials/       → Step-by-step guides and code for implementing RAG.
 tools/           → Tools and utilities for RAG workflows.
 references/      → Additional resources, including books and links.
-
-
-## **Datasets**
-
-Explore a variety of medical datasets curated for RAG applications.
-
-| Dataset Name   | Description                           | Format       | Link           |
-|----------------|---------------------------------------|--------------|----------------|
-| Dataset 1      | Annotated clinical notes for QA.     | CSV/JSON     | [Download](#)  |
-| Dataset 2      | Medical abstracts with references.   | CSV/XML      | [Download](#)  |
-
-More details are available in the [`datasets/`](datasets/) directory.
+```
 
 ---
 
@@ -54,25 +44,50 @@ More details are available in the [`datasets/`](datasets/) directory.
 
 A collection of review papers offering insights into RAG and its applications in the medical field.
 
-| Paper Title                        | Author(s)       | Year | Link         |
-|------------------------------------|-----------------|------|--------------|
-| A Survey on RAG in Medicine        | John Doe et al. | 2023 | [PDF](#)     |
-| Knowledge-Augmented Models         | Jane Smith      | 2022 | [PDF](#)     |
-
-Find all papers in the [`review-papers/`](review-papers/) directory.
+| **Paper Title**             | **Author(s)**   | **Year** | **Link** |
+| --------------------------- | --------------- | -------- | -------- |
+| A Survey on RAG in Medicine | John Doe et al. | 2023     | [PDF](#) |
+| Knowledge-Augmented Models  | Jane Smith      | 2022     | [PDF](#) |
 
 ---
 
 ## **Research Papers**
 
-Dive into cutting-edge research papers on RAG in healthcare:
+### **Federated Learning**
 
-| Paper Title                        | Author(s)       | Year | Link         |
-|------------------------------------|-----------------|------|--------------|
-| Clinical Knowledge Augmentation    | John Doe et al. | 2023 | [PDF](#)     |
-| AI in Medical Decision Making      | Jane Smith      | 2022 | [PDF](#)     |
+Focuses on Federated Learning applications in RAG and healthcare.
 
-Find all research papers in the [`research-papers/`](research-papers/) directory.
+| **Paper Title**                                                                               | **Author(s)**    | **Year** | **Link** |
+| --------------------------------------------------------------------------------------------- | ---------------- | -------- | -------- |
+| Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models | [Jincheol Jung] | 2025     | [PDF](https://arxiv.org/pdf/2412.13720) |
+
+### **Large Language Models**
+
+Explores advancements in large language models for RAG in medicine.
+
+| **Paper Title**                 | **Author(s)**   | **Year** | **Link** |
+| ------------------------------- | --------------- | -------- | -------- |
+| Clinical Knowledge Augmentation | John Doe et al. | 2023     | [PDF](#) |
+
+### **Knowledge-Augmented Models**
+
+Highlights the integration of external knowledge with RAG in the medical field.
+
+| **Paper Title**            | **Author(s)** | **Year** | **Link** |
+| -------------------------- | ------------- |----------| ------- |
+| Benchmarking Retrieval-Augmented Generation for Medicine | Guangzhi Xiong    | 2024     | [PDF](https://arxiv.org/abs/2402.13178v2) |
+
+---
+
+## **Datasets**
+
+Explore a variety of medical datasets curated for RAG applications.
+
+| **Dataset Name** | **Description**                  | **Format** | **Link**      |
+| ---------------- | -------------------------------- | ---------- | ------------- |
+| Dataset 1        | Annotated clinical notes for QA. | CSV/JSON   | [Download](#) |
+
+More details are available in the [`datasets/`](datasets/) directory. (future)
 
 ---
 
@@ -80,12 +95,11 @@ Find all research papers in the [`research-papers/`](research-papers/) directory
 
 Hands-on guides and implementations of RAG for medical applications:
 
-| Tutorial Name                      | Description                            | Link          |
-|------------------------------------|----------------------------------------|---------------|
-| Intro to RAG                       | Step-by-step RAG implementation.      | [Read More](#)|
-| Advanced RAG for Clinical QA       | Complex workflows and datasets.       | [Read More](#)|
+| **Tutorial Name** | **Description**                  | **Link**       |
+| ----------------- | -------------------------------- | -------------- |
+| Intro to RAG      | Step-by-step RAG implementation. | [Read More](#) |
 
-Browse the [`tutorials/`](tutorials/) directory for more.
+Browse the [`tutorials/`](tutorials/) directory for more. (future)
 
 ---
 
@@ -93,30 +107,9 @@ Browse the [`tutorials/`](tutorials/) directory for more.
 
 Explore tools and utilities designed for RAG workflows in healthcare:
 
-| Tool Name                          | Description                            | Link          |
-|------------------------------------|----------------------------------------|---------------|
-| RAG-Pipeline                       | End-to-end RAG pipeline for QA.       | [GitHub](#)   |
-| Dataset Annotator                  | Tool for annotating medical data.     | [GitHub](#)   |
+| **Tool Name** | **Description** | **Link**    |
+|---------------|-----------------| ----------- |
+| RAGAS         | RAG Evaluate    | [GitHub](https://github.com/explodinggradients/ragas) |
 
-Details are available in the [`tools/`](tools/) directory.
+Details are available in the [`tools/`](tools/) directory. (future)
 
----
-
-## **References**
-
-Find additional resources, including books, links, and frameworks in the [`references/`](references/) directory.
-
----
-
-## **Contributing**
-
-We welcome contributions! Here's how you can get involved:
-1. Fork the repository.
-2. Create a branch for your changes (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Submit a pull request.
-
-Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines.
-
-Feel free to modify this file further to suit your specific needs!
