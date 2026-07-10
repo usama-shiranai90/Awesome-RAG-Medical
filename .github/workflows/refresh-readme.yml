@@ -2,7 +2,8 @@ name: Refresh README resources
 
 on:
   schedule:
-    - cron: "17 3 * * 1"
+    # Fridays at 03:17 UTC (12:17 JST). GitHub may delay scheduled runs.
+    - cron: "17 3 * * 5"
   workflow_dispatch:
 
 permissions:
@@ -22,4 +23,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh RAG medical resources"
-          file_pattern: README.md
+          file_pattern: README.md data/resource-history.json catalog/*.md
