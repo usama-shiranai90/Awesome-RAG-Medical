@@ -1,0 +1,272 @@
+[
+  {
+    "topic": "Agentic AI, RAG, and healthcare",
+    "type": "clinical article",
+    "title": "DGADS: A Graph-based Agentic Decision Support System for Precision Dental Question Answering.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42385839/",
+    "published": "2026 Jul 1",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for medication and health",
+    "type": "clinical article",
+    "title": "DrugAgent: A multi-agent digital biosensor framework for interpretable virtual drug screening.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41950794/",
+    "published": "2026 Jul",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Agentic AI, RAG, and healthcare",
+    "type": "clinical article",
+    "title": "Enhancing patient care with AI agents: integrating advanced chatbot technologies for improved healthcare delivery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42426795/",
+    "published": "2026 Jul 9",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for clinical decision-making",
+    "type": "clinical article",
+    "title": "MedIntelliCare: neurodynamic-inspired AI for medical decision support by integrating retrieval-augmented generation with multimodal cognitive processing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41836195/",
+    "published": "2026 Dec",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for clinical decision-making",
+    "type": "clinical article",
+    "title": "PKFAR: psychiatry knowledge-fused augmented reasoning with large language models.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41982804/",
+    "published": "2026 Dec",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Agentic AI, RAG, and healthcare",
+    "type": "clinical article",
+    "title": "Real-World Analysis of Organ Transplantation-Specific Agent Based on Large Language Model in Post-Transplant Self-Management During Off-Hours: A Mixed-Methods Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42384291/",
+    "published": "2026 Jul 1",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for medication and health",
+    "type": "clinical article",
+    "title": "Retrieval augmented large language model system for comprehensive drug contraindications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41531551/",
+    "published": "2026 Dec",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for clinical decision-making",
+    "type": "clinical article",
+    "title": "Vision-language models as an integrative layer for clinical artificial intelligence in radiology: A systems-level perspective.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42176405/",
+    "published": "2026 Aug",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Datasets",
+    "type": "datasets",
+    "title": "justin-marian/awesome-medical-rag",
+    "url": "https://github.com/justin-marian/awesome-medical-rag",
+    "published": "2026-06-25",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Datasets",
+    "type": "datasets",
+    "title": "SDaniel7official/Patient-Medical-RAG-LLM-System-for-Rural-Healthcare",
+    "url": "https://github.com/SDaniel7official/Patient-Medical-RAG-LLM-System-for-Rural-Healthcare",
+    "published": "2026-03-23",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for medication and health",
+    "type": "research paper",
+    "title": "Agentic AI for Substance Use Education: Integrating Regulatory and Scientific Knowledge Sources",
+    "url": "http://arxiv.org/abs/2605.00383v1",
+    "published": "2026-05-01",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Agentic AI, RAG, and healthcare",
+    "type": "research paper",
+    "title": "Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care",
+    "url": "http://arxiv.org/abs/2606.25334v1",
+    "published": "2026-06-24",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for medication and health",
+    "type": "research paper",
+    "title": "CBR-to-SQL: Rethinking Retrieval-based Text-to-SQL using Case-based Reasoning in the Healthcare Domain",
+    "url": "http://arxiv.org/abs/2603.05569v2",
+    "published": "2026-03-05",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Retrieval-Augmented Generation",
+    "type": "research paper",
+    "title": "Conversational Retrieval and On-the-Fly Knowledge Modeling of Historical Penitentiary Repression Records",
+    "url": "http://arxiv.org/abs/2607.08459v1",
+    "published": "2026-07-09",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG in healthcare",
+    "type": "research paper",
+    "title": "Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering",
+    "url": "http://arxiv.org/abs/2607.06641v1",
+    "published": "2026-07-07",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for clinical decision-making",
+    "type": "research paper",
+    "title": "Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation",
+    "url": "http://arxiv.org/abs/2607.04907v1",
+    "published": "2026-07-06",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Agentic AI, RAG, and healthcare",
+    "type": "research paper",
+    "title": "MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization",
+    "url": "http://arxiv.org/abs/2606.20164v1",
+    "published": "2026-06-18",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for clinical decision-making",
+    "type": "research paper",
+    "title": "MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support",
+    "url": "http://arxiv.org/abs/2607.01814v1",
+    "published": "2026-07-02",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Retrieval-Augmented Generation",
+    "type": "research paper",
+    "title": "PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs",
+    "url": "http://arxiv.org/abs/2607.08269v1",
+    "published": "2026-07-09",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "RAG for clinical decision-making",
+    "type": "research paper",
+    "title": "Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models",
+    "url": "http://arxiv.org/abs/2607.02983v1",
+    "published": "2026-07-03",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Retrieval-Augmented Generation",
+    "type": "research paper",
+    "title": "The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality",
+    "url": "http://arxiv.org/abs/2607.08495v1",
+    "published": "2026-07-09",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Agentic AI, RAG, and healthcare",
+    "type": "research paper",
+    "title": "Toward Trustworthy Large Language Model Agents in Healthcare",
+    "url": "http://arxiv.org/abs/2607.05055v1",
+    "published": "2026-07-06",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Tools & implementations",
+    "type": "tools & implementations",
+    "title": "berntpopp/phentrieve",
+    "url": "https://github.com/berntpopp/phentrieve",
+    "published": "2026-07-10",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Tools & implementations",
+    "type": "tools & implementations",
+    "title": "GRaghavendar/AI-Powered-Healthcare-Analytics-RAG-Reporting-Assistant",
+    "url": "https://github.com/GRaghavendar/AI-Powered-Healthcare-Analytics-RAG-Reporting-Assistant",
+    "published": "2026-07-08",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Tools & implementations",
+    "type": "tools & implementations",
+    "title": "kashaf009/MediRAG",
+    "url": "https://github.com/kashaf009/MediRAG",
+    "published": "2026-07-08",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Tools & implementations",
+    "type": "tools & implementations",
+    "title": "ManavMongia/AI-Health-Assistant-",
+    "url": "https://github.com/ManavMongia/AI-Health-Assistant-",
+    "published": "2026-07-10",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Tools & implementations",
+    "type": "tools & implementations",
+    "title": "Princejaiswl/medical-rag-chatbot",
+    "url": "https://github.com/Princejaiswl/medical-rag-chatbot",
+    "published": "2026-07-10",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Tutorials & examples",
+    "type": "tutorials & examples",
+    "title": "KalbeDigitalLab/cdtalks-healthcare-tutorial",
+    "url": "https://github.com/KalbeDigitalLab/cdtalks-healthcare-tutorial",
+    "published": "2024-07-24",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Tutorials & examples",
+    "type": "tutorials & examples",
+    "title": "kkaileni/LangGraphRagAgent",
+    "url": "https://github.com/kkaileni/LangGraphRagAgent",
+    "published": "2025-11-07",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  },
+  {
+    "topic": "Tutorials & examples",
+    "type": "tutorials & examples",
+    "title": "suyash469/rag1",
+    "url": "https://github.com/suyash469/rag1",
+    "published": "2026-05-11",
+    "first_seen": "2026-07-10T17:44:23Z",
+    "last_seen": "2026-07-10T17:44:23Z"
+  }
+]

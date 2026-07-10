@@ -12,7 +12,7 @@ To refresh it locally:
 python scripts/update_readme.py
 ```
 
-The search results are leads for research and development, not clinical advice. Validate evidence, licensing, privacy, security, and regulatory suitability before using any resource in a healthcare setting.
+The search results are leads for research and development, not clinical advice. Validate evidence, licensing, privacy, security, and regulatory suitability before using any resource in a healthcare setting. The latest results appear below; every previously discovered resource is retained in [`data/resource-history.json`](data/resource-history.json).
 
 <!-- GENERATED:START -->
 ## Automatically refreshed resources
@@ -128,5 +128,5 @@ Latest clinical articles (PubMed):
 | [kkaileni/LangGraphRagAgent](https://github.com/kkaileni/LangGraphRagAgent) | A Rag agent that analyzes company healthcare policy and website to answer questions , code is based on the freecodecamp tutorial | 2025-11-07 |
 | [KalbeDigitalLab/cdtalks-healthcare-tutorial](https://github.com/KalbeDigitalLab/cdtalks-healthcare-tutorial) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | 2024-07-24 |
 
-Last generated: 2026-07-10 17:36 UTC
+Last generated: 2026-07-10 17:44 UTC. Every discovered item is retained in [`data/resource-history.json`](data/resource-history.json).
 <!-- GENERATED:END -->
