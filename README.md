@@ -4,12 +4,18 @@ A living, source-backed catalogue for Retrieval-Augmented Generation (RAG) and i
 
 ## How it stays current
 
-[`scripts/update_readme.py`](scripts/update_readme.py) queries the public [arXiv API](https://info.arxiv.org/help/api/), [PubMed E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/), and [GitHub Search API](https://docs.github.com/rest/search/search), then rewrites only the marked section below. A GitHub Actions workflow runs every Monday and can also be run manually from the Actions tab.
+[`scripts/update_readme.py`](scripts/update_readme.py) queries the public [arXiv API](https://info.arxiv.org/help/api/), [PubMed E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/), and [GitHub Search API](https://docs.github.com/rest/search/search), then rewrites only the marked section below. A GitHub Actions workflow runs every Friday and can also be run manually from the Actions tab.
 
 To refresh it locally:
 
 ```bash
 python scripts/update_readme.py
+```
+
+To backfill every matching result available through the public APIs:
+
+```bash
+python scripts/update_readme.py --all
 ```
 
 The search results are leads for research and development, not clinical advice. Validate evidence, licensing, privacy, security, and regulatory suitability before using any resource in a healthcare setting. The latest results appear below; every previously discovered resource is retained in [`data/resource-history.json`](data/resource-history.json).
@@ -25,9 +31,9 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
-| [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](http://arxiv.org/abs/2607.08495v1) | Masahiro Fujita | 2026-07-09 |
-| [Conversational Retrieval and On-the-Fly Knowledge Modeling of Historical Penitentiary Repression Records](http://arxiv.org/abs/2607.08459v1) | Paula Font Solà, Adrià Molina Rodríguez et al. | 2026-07-09 |
-| [PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](http://arxiv.org/abs/2607.08269v1) | Ying Liu, Yi Ye et al. | 2026-07-09 |
+| [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](http://arxiv.org/abs/2607.08495) | Masahiro Fujita | 2026-07-09 |
+| [Conversational Retrieval and On-the-Fly Knowledge Modeling of Historical Penitentiary Repression Records](http://arxiv.org/abs/2607.08459) | Paula Font Solà, Adrià Molina Rodríguez et al. | 2026-07-09 |
+| [PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](http://arxiv.org/abs/2607.08269) | Ying Liu, Yi Ye et al. | 2026-07-09 |
 
 ### RAG in healthcare
 
@@ -35,9 +41,9 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
-| [Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering](http://arxiv.org/abs/2607.06641v1) | Felix Feldman, Joshua Harris et al. | 2026-07-07 |
-| [Toward Trustworthy Large Language Model Agents in Healthcare](http://arxiv.org/abs/2607.05055v1) | Hadi Hasan, Safaa Salman et al. | 2026-07-06 |
-| [Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation](http://arxiv.org/abs/2607.04907v1) | Mohammed Saim Ahmed Quadri, Yunzhe Xue et al. | 2026-07-06 |
+| [Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering](http://arxiv.org/abs/2607.06641) | Felix Feldman, Joshua Harris et al. | 2026-07-07 |
+| [Toward Trustworthy Large Language Model Agents in Healthcare](http://arxiv.org/abs/2607.05055) | Hadi Hasan, Safaa Salman et al. | 2026-07-06 |
+| [Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation](http://arxiv.org/abs/2607.04907) | Mohammed Saim Ahmed Quadri, Yunzhe Xue et al. | 2026-07-06 |
 
 Latest clinical articles (PubMed):
 
@@ -53,9 +59,9 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
-| [Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation](http://arxiv.org/abs/2607.04907v1) | Mohammed Saim Ahmed Quadri, Yunzhe Xue et al. | 2026-07-06 |
-| [Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models](http://arxiv.org/abs/2607.02983v1) | Shengyi Hua, Kangzhe Hu et al. | 2026-07-03 |
-| [MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support](http://arxiv.org/abs/2607.01814v1) | Lihui Luo, Joongwon Chae et al. | 2026-07-02 |
+| [Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation](http://arxiv.org/abs/2607.04907) | Mohammed Saim Ahmed Quadri, Yunzhe Xue et al. | 2026-07-06 |
+| [Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models](http://arxiv.org/abs/2607.02983) | Shengyi Hua, Kangzhe Hu et al. | 2026-07-03 |
+| [MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support](http://arxiv.org/abs/2607.01814) | Lihui Luo, Joongwon Chae et al. | 2026-07-02 |
 
 Latest clinical articles (PubMed):
 
@@ -71,9 +77,9 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
-| [Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care](http://arxiv.org/abs/2606.25334v1) | Runwei Guan, Yi Zhou et al. | 2026-06-24 |
-| [Agentic AI for Substance Use Education: Integrating Regulatory and Scientific Knowledge Sources](http://arxiv.org/abs/2605.00383v1) | Kosar Haghani, Zahra Kolagar et al. | 2026-05-01 |
-| [CBR-to-SQL: Rethinking Retrieval-based Text-to-SQL using Case-based Reasoning in the Healthcare Domain](http://arxiv.org/abs/2603.05569v2) | Hung Nguyen, Hans Moen et al. | 2026-03-05 |
+| [Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care](http://arxiv.org/abs/2606.25334) | Runwei Guan, Yi Zhou et al. | 2026-06-24 |
+| [Agentic AI for Substance Use Education: Integrating Regulatory and Scientific Knowledge Sources](http://arxiv.org/abs/2605.00383) | Kosar Haghani, Zahra Kolagar et al. | 2026-05-01 |
+| [CBR-to-SQL: Rethinking Retrieval-based Text-to-SQL using Case-based Reasoning in the Healthcare Domain](http://arxiv.org/abs/2603.05569) | Hung Nguyen, Hans Moen et al. | 2026-03-05 |
 
 Latest clinical articles (PubMed):
 
@@ -89,9 +95,9 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
-| [Toward Trustworthy Large Language Model Agents in Healthcare](http://arxiv.org/abs/2607.05055v1) | Hadi Hasan, Safaa Salman et al. | 2026-07-06 |
-| [Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care](http://arxiv.org/abs/2606.25334v1) | Runwei Guan, Yi Zhou et al. | 2026-06-24 |
-| [MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization](http://arxiv.org/abs/2606.20164v1) | Aueaphum Aueawatthanaphisut | 2026-06-18 |
+| [Toward Trustworthy Large Language Model Agents in Healthcare](http://arxiv.org/abs/2607.05055) | Hadi Hasan, Safaa Salman et al. | 2026-07-06 |
+| [Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care](http://arxiv.org/abs/2606.25334) | Runwei Guan, Yi Zhou et al. | 2026-06-24 |
+| [MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization](http://arxiv.org/abs/2606.20164) | Aueaphum Aueawatthanaphisut | 2026-06-18 |
 
 Latest clinical articles (PubMed):
 
@@ -128,5 +134,18 @@ Latest clinical articles (PubMed):
 | [kkaileni/LangGraphRagAgent](https://github.com/kkaileni/LangGraphRagAgent) | A Rag agent that analyzes company healthcare policy and website to answer questions , code is based on the freecodecamp tutorial | 2025-11-07 |
 | [KalbeDigitalLab/cdtalks-healthcare-tutorial](https://github.com/KalbeDigitalLab/cdtalks-healthcare-tutorial) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | 2024-07-24 |
 
-Last generated: 2026-07-10 17:44 UTC. Every discovered item is retained in [`data/resource-history.json`](data/resource-history.json).
+
+### Complete historical catalogue
+
+All resources discovered so far are listed below and retained across weekly refreshes.
+
+| Category | Resources | Catalogue pages |
+| --- | --- | --- |
+| Research papers | 5404 | [Part 1](catalog/research-papers-01.md), [Part 2](catalog/research-papers-02.md), [Part 3](catalog/research-papers-03.md), [Part 4](catalog/research-papers-04.md), [Part 5](catalog/research-papers-05.md), [Part 6](catalog/research-papers-06.md), [Part 7](catalog/research-papers-07.md), [Part 8](catalog/research-papers-08.md), [Part 9](catalog/research-papers-09.md), [Part 10](catalog/research-papers-10.md), [Part 11](catalog/research-papers-11.md), [Part 12](catalog/research-papers-12.md), [Part 13](catalog/research-papers-13.md), [Part 14](catalog/research-papers-14.md), [Part 15](catalog/research-papers-15.md), [Part 16](catalog/research-papers-16.md), [Part 17](catalog/research-papers-17.md), [Part 18](catalog/research-papers-18.md), [Part 19](catalog/research-papers-19.md) |
+| Clinical articles and findings | 641 | [Part 1](catalog/clinical-articles-01.md), [Part 2](catalog/clinical-articles-02.md), [Part 3](catalog/clinical-articles-03.md) |
+| Datasets | 2 | [Part 1](catalog/datasets-01.md) |
+| Tools and implementations | 207 | [Part 1](catalog/tools-and-implementations-01.md) |
+| Tutorials and examples | 3 | [Part 1](catalog/tutorials-and-examples-01.md) |
+
+Last generated: 2026-07-10 18:26 UTC. Every discovered item is retained in [`data/resource-history.json`](data/resource-history.json).
 <!-- GENERATED:END -->
