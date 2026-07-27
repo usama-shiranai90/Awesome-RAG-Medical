@@ -25,19 +25,13 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
-| [A Human-Centric Evaluation of a Retrieval-Augmented Generation System for Explaining Quebec Insurance Contracts](http://arxiv.org/abs/2607.15963v1) | David Beauchemin, Richard Khoury | 2026-07-17 |
-| [TARS: A Theory-of-Mind Agent for Personalized In-IDE Code Comprehension](http://arxiv.org/abs/2607.15948v1) | Leopoldo Todisco, Antonio Della Porta et al. | 2026-07-17 |
-| [From Similarity to Feasibility: Diffusion-Refined Retrieval-Augmented Generation for Distribution Network Optimization](http://arxiv.org/abs/2607.15809v1) | Yuxuan Chen, Haipeng Xie et al. | 2026-07-17 |
+| [Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education](http://arxiv.org/abs/2607.22345v1) | Stephan Vonschallen, Karim Kaufmann et al. | 2026-07-24 |
+| [Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG](http://arxiv.org/abs/2607.22319v1) | Chuangtao Ma, Arijit Khan | 2026-07-24 |
+| [Benchmarking Fine-tuning and Retrieval Strategies for a Multimodal Language Model on the NRC Reactor Operator Licensing Examination](http://arxiv.org/abs/2607.22067v1) | Isak Hwang, Yoon Pyo Lee | 2026-07-24 |
 
 ### RAG in healthcare
 
-Latest research papers (arXiv):
-
-| Paper | Authors | Submitted |
-| --- | --- | --- |
-| [MamaBench: Benchmarking LLM Robustness in Maternal and Child Health Diagnosis through Counterfactual Clinical Perturbation](http://arxiv.org/abs/2607.14385v1) | Thanni Adewuyi, Anuoluwa Sotome et al. | 2026-07-15 |
-| [RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM](http://arxiv.org/abs/2607.11683v1) | Mikhail Komarov, Ivan Bondarenko et al. | 2026-07-13 |
-| [MC-RAG System: A Structure-Driven RAG System for Multi-Constraint Queries](http://arxiv.org/abs/2607.10151v1) | Xiao Zhang, Yang Wan et al. | 2026-07-11 |
+Latest research papers could not be fetched this run.
 
 Latest clinical articles (PubMed):
 
@@ -49,49 +43,31 @@ Latest clinical articles (PubMed):
 
 ### RAG for clinical decision-making
 
-Latest research papers (arXiv):
+Latest research papers could not be fetched this run.
 
-| Paper | Authors | Submitted |
+Latest clinical articles (PubMed):
+
+| Article | Authors | Published |
 | --- | --- | --- |
-| [MamaBench: Benchmarking LLM Robustness in Maternal and Child Health Diagnosis through Counterfactual Clinical Perturbation](http://arxiv.org/abs/2607.14385v1) | Thanni Adewuyi, Anuoluwa Sotome et al. | 2026-07-15 |
-| [FAIR GraphRAG: A Retrieval-Augmented Generation Approach for Semantic Data Analysis](http://arxiv.org/abs/2607.11464v1) | Marlena Flüh, Soo-Yon Kim et al. | 2026-07-13 |
-| [Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation](http://arxiv.org/abs/2607.09349v1) | Cedric Caruzzo, Donggeun Yoo et al. | 2026-07-10 |
+| [PKFAR: psychiatry knowledge-fused augmented reasoning with large language models.](https://pubmed.ncbi.nlm.nih.gov/41982804/) | Wang R, Yu C et al. | 2026 Dec |
+| [MedIntelliCare: neurodynamic-inspired AI for medical decision support by integrating retrieval-augmented generation with multimodal cognitive processing.](https://pubmed.ncbi.nlm.nih.gov/41836195/) | Kunekar P, Mankar S et al. | 2026 Dec |
+| [Automated Review of Patient Records: Privacy-Preserving Large Language Models for Identifying Incident Nonarteritic Anterior Ischemic Optic Neuropathy at Scale.](https://pubmed.ncbi.nlm.nih.gov/42437116/) | Nguyen TT, Li KZ et al. | 2026 Aug |
 
 ### RAG for medication and health
 
-Latest research papers (arXiv):
-
-| Paper | Authors | Submitted |
-| --- | --- | --- |
-| [Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care](http://arxiv.org/abs/2606.25334v1) | Runwei Guan, Yi Zhou et al. | 2026-06-24 |
-| [Agentic AI for Substance Use Education: Integrating Regulatory and Scientific Knowledge Sources](http://arxiv.org/abs/2605.00383v1) | Kosar Haghani, Zahra Kolagar et al. | 2026-05-01 |
-| [CBR-to-SQL: Rethinking Retrieval-based Text-to-SQL using Case-based Reasoning in the Healthcare Domain](http://arxiv.org/abs/2603.05569v2) | Hung Nguyen, Hans Moen et al. | 2026-03-05 |
+Latest research papers could not be fetched this run.
 
 Latest clinical articles (PubMed):
 
 | Article | Authors | Published |
 | --- | --- | --- |
 | [Retrieval augmented large language model system for comprehensive drug contraindications.](https://pubmed.ncbi.nlm.nih.gov/41531551/) | Bang B, Yoon J et al. | 2026 Dec |
-| [Real-world evaluation of medication recommendation workflows: Retrieval augmentation, physician-RAG collaborative workflow, and prescribing quality.](https://pubmed.ncbi.nlm.nih.gov/42456600/) | Ren L, Fang F et al. | 2026 Jul 11 |
-| [Retrieval-augmented generation for medication safety: A case study using drug package inserts.](https://pubmed.ncbi.nlm.nih.gov/42435614/) | Sun Y, Wang W et al. | 2026 Jul 11 |
+| [A Supervised Fine-Tuned Large Language Model for Lifestyle Management in Patients With Prostate Cancer: Development and Evaluation Study.](https://pubmed.ncbi.nlm.nih.gov/42479901/) | Jiang F, Yang Q et al. | 2026 Jul 21 |
+| [Generating guideline-concordant and safe recommendations for diabetic kidney disease management via a hierarchical retrieval-augmented large language model.](https://pubmed.ncbi.nlm.nih.gov/42477060/) | Tao X, Tian L et al. | 2026 Jul 20 |
 
 ### Agentic AI, RAG, and healthcare
 
-Latest research papers (arXiv):
-
-| Paper | Authors | Submitted |
-| --- | --- | --- |
-| [Toward Trustworthy Large Language Model Agents in Healthcare](http://arxiv.org/abs/2607.05055v1) | Hadi Hasan, Safaa Salman et al. | 2026-07-06 |
-| [Bridging the Post-discharge Gap: A Traceable Multi-agent Framework for Safe and Continuous Care](http://arxiv.org/abs/2606.25334v1) | Runwei Guan, Yi Zhou et al. | 2026-06-24 |
-| [MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization](http://arxiv.org/abs/2606.20164v1) | Aueaphum Aueawatthanaphisut | 2026-06-18 |
-
-Latest clinical articles (PubMed):
-
-| Article | Authors | Published |
-| --- | --- | --- |
-| [Autonomous radiotherapy planning via agentic orchestration using a multimodal TPS-integrated compound AI platform.](https://pubmed.ncbi.nlm.nih.gov/42466075/) | Matthew Maniscalco A, Kyun Park Y et al. | 2026 Dec 31 |
-| [Artificial intelligence agent for delirium screening among patients in oncology and cardiac intensive care units: a proof-of-concept study.](https://pubmed.ncbi.nlm.nih.gov/41629753/) | Zeng Y, Xie H et al. | 2026 Jul 16 |
-| [JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework for Diagnostic Support in Jawbone Lesions: Development and Technical Validation Study.](https://pubmed.ncbi.nlm.nih.gov/42440194/) | Baseri Saadi S, Ver Berne J et al. | 2026 Jul 13 |
+Latest research papers could not be fetched this run.
 
 ### Datasets, tools, tutorials, and implementations
 
@@ -106,11 +82,11 @@ Latest clinical articles (PubMed):
 
 | Resource | Description | Updated |
 | --- | --- | --- |
-| [ayushkumrdev/Healix](https://github.com/ayushkumrdev/Healix) | Healix is an AI-driven healthcare chatbot designed to deliver reliable, context-aware guidance using LLMs, retrieval-augmented generation, and fine-tuned medical knowledge. It provides accurate responses, symptom insights, and structured information by combining large-scale language understanding with domain-specific datasets. | 2026-07-19 |
-| [Charan-Ellendula/rt-healthcare-rag](https://github.com/Charan-Ellendula/rt-healthcare-rag) | Enterprise-grade Retrieval-Augmented Generation (RAG) system with Role-Based Access Control (RBAC), audit logging, conversational memory, and parent-child chunking architecture. Built to demonstrate production-style AI system design in a healthcare governance and compliance environment. | 2026-07-18 |
-| [StrezL/healthcare-rag-pipeline](https://github.com/StrezL/healthcare-rag-pipeline) | An end-to-end Healthcare Retrieval-Augmented Generation (RAG) system built with FastAPI, React, Weaviate, Ollama, and Groq that combines document ingestion, semantic search, vector databases, and Large Language Models to deliver grounded, source-backed answers from trusted medical documents. | 2026-07-17 |
-| [VyshnavReddyPinreddy/HEALTH_RAG](https://github.com/VyshnavReddyPinreddy/HEALTH_RAG) | HEALTH_RAG is a Retrieval-Augmented Generation (RAG) application that answers healthcare-related queries using information retrieved from official ASHA manuals, guidelines, and medical documents. It combines semantic search with a Large Language Model (LLM) to generate accurate, context-aware responses while citing the source documents used. | 2026-07-16 |
-| [Bale2024/Chatbot_Healthcare](https://github.com/Bale2024/Chatbot_Healthcare) | Built a healthcare domain chatbot using Retrieval-Augmented Generation (RAG) by indexing healthcare documents into a vector database, performing semantic similarity search, and integrating an LLM to generate context-aware and accurate responses. | 2026-07-16 |
+| [amritpalsingh850/ai-healthcare-voice-assistant](https://github.com/amritpalsingh850/ai-healthcare-voice-assistant) | **AI Healthcare Voice Assistant** is a voice-enabled healthcare platform built with **FastAPI, LangGraph, React, PostgreSQL, and Azure OpenAI**. It supports real-time patient conversations, AI-powered symptom collection, appointment booking, Retrieval-Augmented Generation (RAG) over healthcare documents, and multi-agent orchestration. | 2026-07-26 |
+| [tanishkavyas0603/Health_RAG_Pipeline](https://github.com/tanishkavyas0603/Health_RAG_Pipeline) | AI-powered Retrieval-Augmented Generation (RAG) system for answering questions on India's healthcare initiatives using hybrid search and LLMs. | 2026-07-25 |
+| [buildbyanish/mediassist-ai-healthcare-assistant](https://github.com/buildbyanish/mediassist-ai-healthcare-assistant) | Healthcare Knowledge & Triage Assistant built with RAG (Retrieval-Augmented Generation) and an agentic reasoning workflow. Classifies patient intent, performs emergency-safety checks, retrieves grounded answers from a healthcare knowledge base, and escalates potential emergencies instead of attempting to answer them. | 2026-07-25 |
+| [jananichand/Child_Health_Multimodal_RAG](https://github.com/jananichand/Child_Health_Multimodal_RAG) | A production-ready Multimodal Retrieval-Augmented Generation (RAG) system for child healthcare research using FastAPI, React, GPT-4o, Qdrant, LangSmith, and hybrid retrieval. Built for educational and portfolio purposes | 2026-07-25 |
+| [vyshnavitu/MedAgent](https://github.com/vyshnavitu/MedAgent) | An AI-powered healthcare assistant that combines Retrieval-Augmented Generation (RAG), OCR, and Agentic AI to analyze symptoms, interpret medical reports, extract laboratory values, predict severity, and generate explainable medical insights using FAISS, LangChain, Groq Llama 3.1, HuggingFace embeddings, and Streamlit | 2026-07-25 |
 
 #### Tutorials & examples
 
@@ -120,5 +96,5 @@ Latest clinical articles (PubMed):
 | [kkaileni/LangGraphRagAgent](https://github.com/kkaileni/LangGraphRagAgent) | A Rag agent that analyzes company healthcare policy and website to answer questions , code is based on the freecodecamp tutorial | 2025-11-07 |
 | [KalbeDigitalLab/cdtalks-healthcare-tutorial](https://github.com/KalbeDigitalLab/cdtalks-healthcare-tutorial) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | 2024-07-24 |
 
-Last generated: 2026-07-20 06:24 UTC
+Last generated: 2026-07-27 06:41 UTC
 <!-- GENERATED:END -->
