@@ -39,25 +39,9 @@ Latest clinical articles (PubMed):
 
 Latest research papers could not be fetched this run.
 
-Latest clinical articles (PubMed):
-
-| Article | Authors | Published |
-| --- | --- | --- |
-| [Curated retrieval-augmented generation for dental traumatology.](https://pubmed.ncbi.nlm.nih.gov/42546813/) | Espona J, Roig E et al. | 2026 Dec |
-| [Large language models and retrieval-augmented platforms for dental implant complications: A blinded, expert-rated benchmarking study.](https://pubmed.ncbi.nlm.nih.gov/42269758/) | Mayer Y, Canullo L et al. | 2026 Dec |
-| [PKFAR: psychiatry knowledge-fused augmented reasoning with large language models.](https://pubmed.ncbi.nlm.nih.gov/41982804/) | Wang R, Yu C et al. | 2026 Dec |
-
 ### RAG for medication and health
 
 Latest research papers could not be fetched this run.
-
-Latest clinical articles (PubMed):
-
-| Article | Authors | Published |
-| --- | --- | --- |
-| [Retrieval augmented large language model system for comprehensive drug contraindications.](https://pubmed.ncbi.nlm.nih.gov/41531551/) | Bang B, Yoon J et al. | 2026 Dec |
-| [Real-world evaluation of medication recommendation workflows: Retrieval augmentation, physician-RAG collaborative workflow, and prescribing quality.](https://pubmed.ncbi.nlm.nih.gov/42456600/) | Ren L, Fang F et al. | 2026 Nov 1 |
-| [Retrieval-augmented generation for medication safety: A case study using drug package inserts.](https://pubmed.ncbi.nlm.nih.gov/42435614/) | Sun Y, Wang W et al. | 2026 Nov 1 |
 
 ### Agentic AI, RAG, and healthcare
 
@@ -76,11 +60,11 @@ Latest research papers could not be fetched this run.
 
 | Resource | Description | Updated |
 | --- | --- | --- |
-| [NaumanEngineer/Healthcare_Document_Intelligence_RAG](https://github.com/NaumanEngineer/Healthcare_Document_Intelligence_RAG) | Governed healthcare document intelligence and retrieval-augmented generation system for evidence-grounded operational decision support. | 2026-09-11 |
-| [Vijay-Dhame/Healthcare-Ai-Assistant-using-RAG-And-LLM](https://github.com/Vijay-Dhame/Healthcare-Ai-Assistant-using-RAG-And-LLM) | Engineered an AI healthcare assistant with Retrieval-Augmented Generation (RAG), combining LLMs, vector search, and document retrieval for accurate query responses.Built REST APIs with FastAPI and a chatbot interface, applying prompt engineering to improve response relevance. | 2026-09-11 |
-| [NLDivya/Mediguide_agent](https://github.com/NLDivya/Mediguide_agent) | An Agentic AI-powered healthcare information assistant that provides grounded educational healthcare information using Retrieval-Augmented Generation (RAG). | 2026-09-08 |
-| [prikshitgautam27/AI_powered_healthcare](https://github.com/prikshitgautam27/AI_powered_healthcare) | AI Powered Healthcare is an intelligent Retrieval-Augmented Generation (RAG) chatbot system combining Mistral-7B-Instruct-v0.3 language model with FAISS vector search technology. It processes medical PDF documents to provide accurate, context-aware healthcare responses. | 2026-09-08 |
-| [andriyanas/healthmate-rag-chatbot](https://github.com/andriyanas/healthmate-rag-chatbot) | An enterprise-grade Retrieval-Augmented Generation (RAG) conversational agent engineered for general healthcare inquiry processing. Built leveraging local vector embeddings and the Google Gemini API for cost-efficient response synthesis. | 2026-09-08 |
+| [santhosh-madha/healthcare-rag-assistant](https://github.com/santhosh-madha/healthcare-rag-assistant) | Healthcare-focused Retrieval-Augmented Generation (RAG) system using LangChain, FAISS, Llama 3, FastAPI, Docker, and RAGAS for source-grounded medical question answering. | 2026-09-21 |
+| [saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag](https://github.com/saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag) | Research project exploring methods to reduce hallucinations in Agentic AI systems using Retrieval-Augmented Generation (RAG) | 2026-09-20 |
+| [NaumanEngineer/Healthcare_Document_Intelligence_RAG](https://github.com/NaumanEngineer/Healthcare_Document_Intelligence_RAG) | Governed healthcare document intelligence and retrieval-augmented generation system for evidence-grounded operational decision support. | 2026-09-20 |
+| [raw9k/MediRAG](https://github.com/raw9k/MediRAG) | A Retrieval-Augmented Generation (RAG) powered medical AI assistant designed to enhance healthcare knowledge access. MediRAG integrates advanced retrieval pipelines with generative models to deliver accurate, context-aware medical insights for research, learning, and patient support. | 2026-09-19 |
+| [varshithapinky053-commits/SwasthiAI](https://github.com/varshithapinky053-commits/SwasthiAI) | SwasthAI is an AI-powered healthcare assistant that uses Retrieval-Augmented Generation (RAG) to retrieve relevant health information and provide context-aware responses to users. The project combines Artificial Intelligence, Natural Language Processing, and Large Language Models to deliver an informative and user-friendly healthcare support system | 2026-09-19 |
 
 #### Tutorials & examples
 
@@ -90,5 +74,5 @@ Latest research papers could not be fetched this run.
 | [kkaileni/LangGraphRagAgent](https://github.com/kkaileni/LangGraphRagAgent) | A Rag agent that analyzes company healthcare policy and website to answer questions , code is based on the freecodecamp tutorial | 2025-11-07 |
 | [KalbeDigitalLab/cdtalks-healthcare-tutorial](https://github.com/KalbeDigitalLab/cdtalks-healthcare-tutorial) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | 2024-07-24 |
 
-Last generated: 2026-09-14 08:51 UTC
+Last generated: 2026-09-21 08:51 UTC
 <!-- GENERATED:END -->
