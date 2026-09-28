@@ -43,6 +43,14 @@ Latest research papers could not be fetched this run.
 
 Latest research papers could not be fetched this run.
 
+Latest clinical articles (PubMed):
+
+| Article | Authors | Published |
+| --- | --- | --- |
+| [Retrieval augmented large language model system for comprehensive drug contraindications.](https://pubmed.ncbi.nlm.nih.gov/41531551/) | Bang B, Yoon J et al. | 2026 Dec |
+| [Real-world evaluation of medication recommendation workflows: Retrieval augmentation, physician-RAG collaborative workflow, and prescribing quality.](https://pubmed.ncbi.nlm.nih.gov/42456600/) | Ren L, Fang F et al. | 2026 Nov 1 |
+| [Retrieval-augmented generation for medication safety: A case study using drug package inserts.](https://pubmed.ncbi.nlm.nih.gov/42435614/) | Sun Y, Wang W et al. | 2026 Nov 1 |
+
 ### Agentic AI, RAG, and healthcare
 
 Latest research papers could not be fetched this run.
@@ -53,18 +61,18 @@ Latest research papers could not be fetched this run.
 
 | Resource | Description | Updated |
 | --- | --- | --- |
-| [justin-marian/awesome-medical-rag](https://github.com/justin-marian/awesome-medical-rag) | ⭐ Awesome Medical QA/RAG: A curated collection of 250+ papers, datasets, and benchmarks for Healthcare AI, Medical RAG, Knowledge Graphs, Clinical LLMs, and Multilingual Reasoning. | 2026-08-31 |
+| [justin-marian/awesome-medical-rag](https://github.com/justin-marian/awesome-medical-rag) | ⭐ Awesome Medical QA/RAG: A curated collection of 250+ papers, datasets, and benchmarks for Healthcare AI, Medical RAG, Knowledge Graphs, Clinical LLMs, and Multilingual Reasoning. | 2026-09-22 |
 | [SDaniel7official/Patient-Medical-RAG-LLM-System-for-Rural-Healthcare](https://github.com/SDaniel7official/Patient-Medical-RAG-LLM-System-for-Rural-Healthcare) | Retrieval-Augmented Generation (RAG) system for querying patient medical history from EHR datasets. Combines semantic search, patient-level metadata filtering, and LLM-based generation to produce structured clinical reports. Designed for accurate, context-aware retrieval and efficient analysis of longitudinal patient data. | 2026-03-23 |
 
 #### Tools & implementations
 
 | Resource | Description | Updated |
 | --- | --- | --- |
-| [santhosh-madha/healthcare-rag-assistant](https://github.com/santhosh-madha/healthcare-rag-assistant) | Healthcare-focused Retrieval-Augmented Generation (RAG) system using LangChain, FAISS, Llama 3, FastAPI, Docker, and RAGAS for source-grounded medical question answering. | 2026-09-21 |
-| [saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag](https://github.com/saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag) | Research project exploring methods to reduce hallucinations in Agentic AI systems using Retrieval-Augmented Generation (RAG) | 2026-09-20 |
-| [NaumanEngineer/Healthcare_Document_Intelligence_RAG](https://github.com/NaumanEngineer/Healthcare_Document_Intelligence_RAG) | Governed healthcare document intelligence and retrieval-augmented generation system for evidence-grounded operational decision support. | 2026-09-20 |
-| [raw9k/MediRAG](https://github.com/raw9k/MediRAG) | A Retrieval-Augmented Generation (RAG) powered medical AI assistant designed to enhance healthcare knowledge access. MediRAG integrates advanced retrieval pipelines with generative models to deliver accurate, context-aware medical insights for research, learning, and patient support. | 2026-09-19 |
-| [varshithapinky053-commits/SwasthiAI](https://github.com/varshithapinky053-commits/SwasthiAI) | SwasthAI is an AI-powered healthcare assistant that uses Retrieval-Augmented Generation (RAG) to retrieve relevant health information and provide context-aware responses to users. The project combines Artificial Intelligence, Natural Language Processing, and Large Language Models to deliver an informative and user-friendly healthcare support system | 2026-09-19 |
+| [santhosh-madha/healthcare-rag-assistant](https://github.com/santhosh-madha/healthcare-rag-assistant) | Healthcare-focused Retrieval-Augmented Generation (RAG) system using LangChain, FAISS, Llama 3, FastAPI, Docker, and RAGAS for source-grounded medical question answering. | 2026-09-27 |
+| [NaumanEngineer/Healthcare_Document_Intelligence_RAG](https://github.com/NaumanEngineer/Healthcare_Document_Intelligence_RAG) | Governed healthcare document intelligence and retrieval-augmented generation system for evidence-grounded operational decision support. | 2026-09-27 |
+| [prikshitgautam27/AI_powered_healthcare](https://github.com/prikshitgautam27/AI_powered_healthcare) | AI Powered Healthcare is an intelligent Retrieval-Augmented Generation (RAG) chatbot system combining Mistral-7B-Instruct-v0.3 language model with FAISS vector search technology. It processes medical PDF documents to provide accurate, context-aware healthcare responses. | 2026-09-25 |
+| [saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag](https://github.com/saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag) | Research project exploring methods to reduce hallucinations in Agentic AI systems using Retrieval-Augmented Generation (RAG) | 2026-09-24 |
+| [Hemantsingh-hs/TraigeProtocol](https://github.com/Hemantsingh-hs/TraigeProtocol) | intelligent healthcare decision-support application built with **Streamlit** and **RAG (Retrieval-Augmented Generation)**. It addresses emergency triage bottlenecks and brings standardized clinical decisions to primary healthcare centers and rural communities. | 2026-09-23 |
 
 #### Tutorials & examples
 
@@ -74,5 +82,5 @@ Latest research papers could not be fetched this run.
 | [kkaileni/LangGraphRagAgent](https://github.com/kkaileni/LangGraphRagAgent) | A Rag agent that analyzes company healthcare policy and website to answer questions , code is based on the freecodecamp tutorial | 2025-11-07 |
 | [KalbeDigitalLab/cdtalks-healthcare-tutorial](https://github.com/KalbeDigitalLab/cdtalks-healthcare-tutorial) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | 2024-07-24 |
 
-Last generated: 2026-09-21 08:51 UTC
+Last generated: 2026-09-28 09:40 UTC
 <!-- GENERATED:END -->
