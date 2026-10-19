@@ -25,9 +25,9 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
-| [Verifiable Retrieval for Legal Reasoning through Structure-driven Knowledge Graph](http://arxiv.org/abs/2610.13695v1) | Ibrahim Siddig, Sviatoslav Tugeev et al. | 2026-10-09 |
-| [AgentTune: A Unified Training Lifecycle for Tool-Using LLM Agents](http://arxiv.org/abs/2610.13335v1) | R E Zera Marveen Lyngkhoi, Abhivansh Gupta et al. | 2026-10-09 |
-| [SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents](http://arxiv.org/abs/2610.12975v1) | P N Bhargav Teja, Velpula Lokesh Reddy et al. | 2026-10-09 |
+| [ThetreStageAI: Multi-View Retrieval-Augmented Generation for Structured Bengali Theatre Production Planning](http://arxiv.org/abs/2610.23618v1) | Md. Mehedi Hasan Naeem, Mst. Kamrunnahar Ruma et al. | 2026-10-16 |
+| [Enhancing RAG-based Medical VQA with Gated Multimodal Representations](http://arxiv.org/abs/2610.23588v1) | Daniela Jimenez-Pano, Hugo Jair Escalante et al. | 2026-10-16 |
+| [PrairieFire: Igniting High-Throughput Updates in Large-Scale Approximate Nearest Neighbor Search](http://arxiv.org/abs/2610.23232v1) | Yuchen Huang, Baiteng Ma et al. | 2026-10-16 |
 
 ### RAG in healthcare
 
@@ -35,9 +35,9 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
+| [Enhancing RAG-based Medical VQA with Gated Multimodal Representations](http://arxiv.org/abs/2610.23588v1) | Daniela Jimenez-Pano, Hugo Jair Escalante et al. | 2026-10-16 |
+| [ARMED: Adaptive Retrieval-Augmented Medication Recommendation](http://arxiv.org/abs/2610.16440v1) | Kyungkeon Chung, Se Un Park et al. | 2026-10-12 |
 | [BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment](http://arxiv.org/abs/2610.09026v1) | Kemal Davaslioglu, Nathan Conger et al. | 2026-10-06 |
-| [Walking the Embedding Space: Datastore Extraction from Multimodal RAG](http://arxiv.org/abs/2610.01871v1) | Maria Carmen Jica, Ali Satvaty et al. | 2026-10-01 |
-| [Byzantine-Robust Federated RAG via Aligned Calibration and Fixed-Membership Conformal Prediction](http://arxiv.org/abs/2609.33037v2) | Prasanjit Dubey, Aritra Guha et al. | 2026-09-27 |
 
 Latest clinical articles (PubMed):
 
@@ -53,9 +53,9 @@ Latest research papers (arXiv):
 
 | Paper | Authors | Submitted |
 | --- | --- | --- |
+| [Enhancing RAG-based Medical VQA with Gated Multimodal Representations](http://arxiv.org/abs/2610.23588v1) | Daniela Jimenez-Pano, Hugo Jair Escalante et al. | 2026-10-16 |
+| [ARMED: Adaptive Retrieval-Augmented Medication Recommendation](http://arxiv.org/abs/2610.16440v1) | Kyungkeon Chung, Se Un Park et al. | 2026-10-12 |
 | [BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment](http://arxiv.org/abs/2610.09026v1) | Kemal Davaslioglu, Nathan Conger et al. | 2026-10-06 |
-| [Evaluating Biomedical Reranking for LLM-Based Question Answering over Longitudinal Clinical Notes](http://arxiv.org/abs/2610.01324v1) | Maryam Shahbaz Ali, Laura B. Strachan et al. | 2026-10-01 |
-| [ARCagent: An Adaptive Retrieval Calibration Agent for Clinical Question Answering](http://arxiv.org/abs/2609.36392v1) | Yuyan Chen | 2026-09-28 |
 
 ### RAG for medication and health
 
@@ -98,20 +98,20 @@ Latest research papers (arXiv):
 
 | Resource | Description | Updated |
 | --- | --- | --- |
-| [Porche22/medical-assistant-llm](https://github.com/Porche22/medical-assistant-llm) | An LLM-powered medical assistant using retrieval-augmented generation (RAG) over medical documents. | 2026-10-11 |
-| [NaumanEngineer/Healthcare_Document_Intelligence_RAG](https://github.com/NaumanEngineer/Healthcare_Document_Intelligence_RAG) | Governed healthcare document intelligence and retrieval-augmented generation system for evidence-grounded operational decision support. | 2026-10-11 |
-| [oshinmiranda26/NeuroRisk-Clinical-Risk-Intelligence](https://github.com/oshinmiranda26/NeuroRisk-Clinical-Risk-Intelligence) | NeuroRisk: retrieval-augmented generation over synthetic mental health EHR data, combining structured records and clinical notes, comparing TF-IDF and LLM-based retrieval for risk questions | 2026-10-09 |
-| [prikshitgautam27/AI_powered_healthcare](https://github.com/prikshitgautam27/AI_powered_healthcare) | AI Powered Healthcare is an intelligent Retrieval-Augmented Generation (RAG) chatbot system combining Mistral-7B-Instruct-v0.3 language model with FAISS vector search technology. It processes medical PDF documents to provide accurate, context-aware healthcare responses. | 2026-10-09 |
-| [Tejasri-Vallepu/Healthcare-Reasearch-Assistant-RAG](https://github.com/Tejasri-Vallepu/Healthcare-Reasearch-Assistant-RAG) | Healthcare Research Assistant using Retrieval-Augmented Generation (RAG) | 2026-10-07 |
+| [NaumanEngineer/Healthcare_Document_Intelligence_RAG](https://github.com/NaumanEngineer/Healthcare_Document_Intelligence_RAG) | Governed healthcare document intelligence and retrieval-augmented generation system for evidence-grounded operational decision support. | 2026-10-19 |
+| [duke-cloud/HealthCare-RAG-AI-Customer-Support-Agent](https://github.com/duke-cloud/HealthCare-RAG-AI-Customer-Support-Agent) | A production-ready **Retrieval-Augmented Generation (RAG)** system for healthcare customer support, built with Django, FAISS, scikit-learn, and Anthropic Claude AI. Answers patient and staff questions from your knowledge base with full source citations, PHI protection, and clinical query escalation. | 2026-10-18 |
+| [Umeshmandal/multimodal-ai-disease-prediction](https://github.com/Umeshmandal/multimodal-ai-disease-prediction) | An AI-powered healthcare system integrating Vision Transformers, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Explainable AI for multimodal disease prediction and interpretable medical insights. | 2026-10-17 |
+| [saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag](https://github.com/saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag) | Research project exploring methods to reduce hallucinations in Agentic AI systems using Retrieval-Augmented Generation (RAG) | 2026-10-16 |
+| [haa924/OralScan-AI](https://github.com/haa924/OralScan-AI) | OralScan AI is an AI-powered healthcare project that uses InceptionResNetV2 to classify seven categories of oral conditions from images. It integrates Retrieval-Augmented Generation (RAG), FAISS, and MedQuAD to provide relevant oral health information through an interactive chatbot. This prototype supports educational screening, not medical diagnos | 2026-10-15 |
 
 #### Tutorials & examples
 
 | Resource | Description | Updated |
 | --- | --- | --- |
-| [intersystems-community/FHIR-AI-Hackathon-Kit](https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit) | Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector search, LangChain AI agents and MCP servers. | 2026-10-12 |
+| [intersystems-community/FHIR-AI-Hackathon-Kit](https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit) | Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector search, LangChain AI agents and MCP servers. | 2026-10-16 |
 | [suyash469/rag1](https://github.com/suyash469/rag1) | AI Medical Chatbot with RAG Tutorial (HUGGINGFACE & LANGCHAIN) \| AI in healthcare | 2026-05-11 |
 | [kkaileni/LangGraphRagAgent](https://github.com/kkaileni/LangGraphRagAgent) | A Rag agent that analyzes company healthcare policy and website to answer questions , code is based on the freecodecamp tutorial | 2025-11-07 |
 | [KalbeDigitalLab/cdtalks-healthcare-tutorial](https://github.com/KalbeDigitalLab/cdtalks-healthcare-tutorial) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | 2024-07-24 |
 
-Last generated: 2026-10-12 10:41 UTC
+Last generated: 2026-10-19 08:45 UTC
 <!-- GENERATED:END -->
