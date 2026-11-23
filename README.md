@@ -25,27 +25,25 @@ Latest research papers could not be fetched this run.
 
 ### RAG in healthcare
 
-Latest research papers could not be fetched this run.
+Latest research papers (arXiv):
+
+| Paper | Authors | Submitted |
+| --- | --- | --- |
+| [Next-Generation Segmentation in Radiotherapy: A Narrative Review from Atlas-Based Methods to Agentic Vision-Language Models](http://arxiv.org/abs/2611.12085v1) | Josef A. Buchner, Richard Osuala et al. | 2026-11-09 |
+| [Operation-aware Multimodal Clinical Decision Support System for ICU Discharge Risk Assessment](http://arxiv.org/abs/2611.11960v1) | Guoqing Zhang, Rafik Hadfi et al. | 2026-11-09 |
+| [Uncertainty, Not Concealment: A Mechanistic Reappraisal of Sycophancy in Vision-Language Models](http://arxiv.org/abs/2611.10297v1) | Mohamed I. Eldagla, Zeyad H. ElShafei et al. | 2026-11-06 |
 
 Latest clinical articles (PubMed):
 
 | Article | Authors | Published |
 | --- | --- | --- |
+| [Large Language Models in Clinical Neurology: A Scoping Review.](https://pubmed.ncbi.nlm.nih.gov/43056665/) | Gorenshtein A, Shihada K et al. | 2027 Feb |
 | [Artificial intelligence hallucinations in large language models for medical education and healthcare: a scoping review of detection, mitigation, and governance.](https://pubmed.ncbi.nlm.nih.gov/42993682/) | Heydari S, Alavi ZS | 2026 Dec 31 |
 | [Autonomous radiotherapy planning via agentic orchestration using a multimodal TPS-integrated compound AI platform.](https://pubmed.ncbi.nlm.nih.gov/42466075/) | Matthew Maniscalco A, Kyun Park Y et al. | 2026 Dec 31 |
-| [Applications of large language models in radiation oncology: From workflow automation to clinical intelligence.](https://pubmed.ncbi.nlm.nih.gov/43011704/) | Ding Y, Wei S et al. | 2026 Dec |
 
 ### RAG for clinical decision-making
 
 Latest research papers could not be fetched this run.
-
-Latest clinical articles (PubMed):
-
-| Article | Authors | Published |
-| --- | --- | --- |
-| [Evaluating RAG Configurations for Clinical Information Extraction from EHR Notes: Aged Care Case Study.](https://pubmed.ncbi.nlm.nih.gov/42964527/) | Vithanage D, Duong QV et al. | 2026 Dec |
-| [Development of a hybrid artificial intelligence framework for pharmacotherapy optimization.](https://pubmed.ncbi.nlm.nih.gov/42627626/) | Rose O, Clemens S et al. | 2026 Dec |
-| [Curated retrieval-augmented generation for dental traumatology.](https://pubmed.ncbi.nlm.nih.gov/42546813/) | Espona J, Roig E et al. | 2026 Dec |
 
 ### RAG for medication and health
 
@@ -54,14 +52,6 @@ Latest research papers could not be fetched this run.
 ### Agentic AI, RAG, and healthcare
 
 Latest research papers could not be fetched this run.
-
-Latest clinical articles (PubMed):
-
-| Article | Authors | Published |
-| --- | --- | --- |
-| [Autonomous radiotherapy planning via agentic orchestration using a multimodal TPS-integrated compound AI platform.](https://pubmed.ncbi.nlm.nih.gov/42466075/) | Matthew Maniscalco A, Kyun Park Y et al. | 2026 Dec 31 |
-| [DGADS: A graph-based agentic decision support system for precision dental question answering.](https://pubmed.ncbi.nlm.nih.gov/42385839/) | Xiong YT, Chen YX et al. | 2026 Dec |
-| [An AI-driven system for travel vaccination guidance using agentic retrieval augmented generation (RAG).](https://pubmed.ncbi.nlm.nih.gov/42994600/) | Di Palma L, Droghetti C et al. | 2026 Nov 6 |
 
 ### Datasets, tools, tutorials, and implementations
 
@@ -76,11 +66,11 @@ Latest clinical articles (PubMed):
 
 | Resource | Description | Updated |
 | --- | --- | --- |
+| [saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag](https://github.com/saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag) | Research project exploring methods to reduce hallucinations in Agentic AI systems using Retrieval-Augmented Generation (RAG) | 2026-11-12 |
+| [phentrieve/phentrieve](https://github.com/phentrieve/phentrieve) | AI-powered system for mapping clinical text to Human Phenotype Ontology (HPO) terms using Retrieval-Augmented Generation (RAG). Features Python CLI/library, FastAPI backend, and Vue.js frontend for interactive phenotype extraction from medical texts. | 2026-11-09 |
 | [sreenugopireddy/Healthcare-Document-RAG-Assistant](https://github.com/sreenugopireddy/Healthcare-Document-RAG-Assistant) | A domain-grounded Healthcare Question Answering assistant built using a Retrieval-Augmented Generation (RAG) pipeline. The system answers medical questions strictly from approved healthcare documents and provides source citations for every answer. | 2026-06-22 |
 | [akshitbobde/PCOSakhi---RAG](https://github.com/akshitbobde/PCOSakhi---RAG) | AI-powered healthcare knowledge assistant using Retrieval-Augmented Generation. | 2026-11-15 |
 | [sushmaasree/MediGuide-AI](https://github.com/sushmaasree/MediGuide-AI) | A Healthcare Information Assistant using Retrieval Augmented Generation (RAG) | 2026-11-13 |
-| [saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag](https://github.com/saadktk10/reducing-hallucination-in-healthcare-using-agentic-ai-in-rag) | Research project exploring methods to reduce hallucinations in Agentic AI systems using Retrieval-Augmented Generation (RAG) | 2026-11-12 |
-| [camerajoyer/Medical-RAG](https://github.com/camerajoyer/Medical-RAG) | This project combines Large Language Model (LLM) fine-tuning, semantic chunking, and Retrieval-Augmented Generation (RAG) to develop an intelligent healthcare chatbot that delivers personalized, context-aware medical information retrieval and support for remote patients in the Healthcare 5.0 era. | 2026-11-12 |
 
 #### Tutorials & examples
 
@@ -91,5 +81,5 @@ Latest clinical articles (PubMed):
 | [kkaileni/LangGraphRagAgent](https://github.com/kkaileni/LangGraphRagAgent) | A Rag agent that analyzes company healthcare policy and website to answer questions , code is based on the freecodecamp tutorial | 2025-11-07 |
 | [KalbeDigitalLab/cdtalks-healthcare-tutorial](https://github.com/KalbeDigitalLab/cdtalks-healthcare-tutorial) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | 2024-07-24 |
 
-Last generated: 2026-11-16 11:05 UTC
+Last generated: 2026-11-23 12:24 UTC
 <!-- GENERATED:END -->
